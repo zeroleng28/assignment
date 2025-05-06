@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41276648284",
+    "project_id": "eco-firebase-c09ab",
+    "storage_bucket": "eco-firebase-c09ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41276648284:android:ff347aafa42f1f690b6f99",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHP077VQxtE61Gir4Svh4Bu7WZKnuBBPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
